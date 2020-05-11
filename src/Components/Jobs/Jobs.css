@@ -1,0 +1,40 @@
+.jobHeadingDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: -30px;
+}
+.jobHeadingDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: -40px;
+}
+.dateDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+.jobTitle {
+  margin: 0px;
+}
+.jobResponsibilities {
+  font-size: .9em;
+}
+.ulJobs {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 90%;
+  margin-top: 0px;
+}
+.liJobs {
+  list-style: url('https://i.ibb.co/GJj3sDG/thumbsUp.png');
+  margin-top: 2px;
+  font-size: .9em;
+  margin-left: 10px;
+}
+.jobsDiv {
+  margin-top: 20px;
+}
